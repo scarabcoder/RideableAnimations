@@ -1,0 +1,9 @@
+name: Animations
+version: 0.1.0
+authors: [Nicholas Harris (ScarabCoder), ClownerCraft]
+depends: [WorldEdit]
+main: com.clownercraft.animations.RideableAnimations
+commands:
+  animations:
+     description: Main command
+     aliases: [an, animation]
